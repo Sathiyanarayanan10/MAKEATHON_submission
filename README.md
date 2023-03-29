@@ -3,11 +3,9 @@
  ### About 
   This project is all aboutTo design a smart electric bike speed control system using a microcontroller and a throttle input that can be controlled and can provide real time feedback to the rider. The throttle input will be implemented using a potentiometer.
   
-  This project has been submitted by " TEAM BACKBENCHERS"
-  Group Members: SATHIYANARYANAN KR-20BEC0331
-	PUVVADI PRANAVI-20BEC0658
-       SHRESTHA NARAYAN SINHA-20BEC0668
-       VARUN S-20BEC0671
+  This project has been submitted by " TEAM BACKBENCHERS"</br>
+  Group Members:</br>
+  SATHIYANARYANAN KR-20BEC0331</br>PUVVADI PRANAVI-20BEC0658</br>SHRESTHA NARAYAN SINHA-20BEC0668</br>VARUN S-20BEC0671</br>
 
 
 # Pre-requisites
