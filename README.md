@@ -17,15 +17,14 @@ Install Arduino IDE and gather required components.
  
  # Screenshots:-
  
- ### Anaconda Prompt<br />
+ ### Prototype of project<br />
  <img src="Assets/Anaconda_Prompt.png" width="900" height="700"><br />
  
- ### Spyder<br />
+ ### Normal Riding Mode <br />
  <img src="Assets/Spyder_run.png" width="1000" height="1000"><br />
 
- ### Webcam<br />
+ ### City/Economy Mode<br />
  <img src="Assets/WEBCAM.png" width="700" height="600"><br />
- <img src="Assets/WEBCAM2.png" width="700" height="600"><br />
  
- ### Attendance Sheet<br />
- <img src="Assets/Attendance_updated.png" width="350" height="700"><br />
+ 
+
