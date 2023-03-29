@@ -1,11 +1,10 @@
-# Attendance_Tracker
- ### About 
-  This project is all about Ebike speed controller system as per its throttle using Microcontroller.
+# MAKEATHON SUBMISSION : Ebike speed controller system as per its throttle using Microcontroller.
 
-  
-  
+ ### About 
+  This project is all aboutTo design a smart electric bike speed control system using a microcontroller and a throttle input that can be controlled and can provide real time feedback to the rider. The throttle input will be implemented using a potentiometer. 
+
 # Pre-requisites
-Install Arduino IDE
+Install Arduino IDE and gather required components.
 
 # Steps to run the program :
  1. Make the circuit connections.
