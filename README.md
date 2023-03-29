@@ -21,7 +21,7 @@ Install Arduino IDE and gather required components.
  <img src="Assets/Protoype.jpg" width="900" height="700"><br />
  
  ### Normal Riding Mode <br />
- <img src="Assets/Normal Mode.jpg" width="1000" height="1000"><br />
+ <img src="Assets/Normal Mode.jpg" width="700" height="600"><br />
 
  ### City/Economy Mode<br />
  <img src="Assets/City Mode.jpg" width="700" height="600"><br />
